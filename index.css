@@ -1,0 +1,106 @@
+.background {
+  background-color: #5043dd66;
+  background-image: url(/img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  color: #27014aee;
+  margin: 0;
+}
+
+header {
+  background: linear-gradient(to top, #3d046731, #3e0467);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+footer {
+  background: linear-gradient(to top, #3e0467, #3d046731);
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  margin: 0;
+}
+
+.postlist {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+  padding-top: 15px;
+  padding: 10px;
+}
+
+.logo {
+  border-radius: 50%;
+}
+
+.post {
+  margin: auto;
+  font-size: 18px;
+}
+
+.right {
+  text-align: right;
+}
+
+.flor {
+  color: #c6bec9d5;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  background: #cb80e965;
+  color: #350265;
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 7px;
+  font-size: 18px;
+}
+
+.button:hover {
+  background: #00e2fb4d;
+  color: #7a085f;
+}
+
+.link:hover {
+  color: #022db8ed;
+}
+
+.back {
+  text-align: right;
+}
+
+.link {
+  color: #32035e;
+  font-size: 16px;
+}
+
+.menu {
+  text-align: right;
+  border: 15px;
+  padding: 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  margin: 1px;
+  font-size: 24px;
+  border-top: 15px;
+  padding-top: 20px;
+}
+
+hr {
+  margin-top: 2px;
+  border: none;
+  background-color: #3502656b;
+  height: 2px;
+}
+
+img {
+  border-radius: 5px;
+  box-shadow: 3px 3px rgba(88, 7, 132, 0.602);
+}
